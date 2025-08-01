@@ -17,35 +17,49 @@ Status do Projeto (opcional)
 Indica se está em desenvolvimento, concluído, ou descontinuado.
 -->
 ## Status do Projeto (opcional)
+- 🚧 Em desenvolviment
 
 <!--
 Instalação
 Passos para instalar ou configurar o projeto localmente
 -->
 ## Instalação
+- git clone https://github.com/Luzivam34/DEV.git
+- cd seu-projeto
 
 <!--
 Como Usar
 Exemplos de como usar o projeto.
 Pode incluir trechos de código ou capturas de tela.
-
 -->
+
+---
+
 ### Como *Usar*
 
 <!-- 
 - Lista das principais tecnologias utilizadas.
 -->
-### *Tecnologias*
 
+
+
+### *Tecnologias*
+- Markdown
+
+---
 <!-- Contribuição
 - Regras ou orientações para quem quiser contribuir.
 -->
 ## Contribuição
+- Contribuições são bem-vindas! Por favor, siga as diretrizes do [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- Licença
 - Tipo de licença usada no projeto.
 -->
+
 ## Licença
+- Este projeto está licenciado sob a MIT License.
+
 
 <!-- Autores / Créditos
 - Quem criou ou colaborou no projeto.
