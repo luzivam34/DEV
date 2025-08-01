@@ -11,6 +11,7 @@ Explica o propósito do projeto.
 Destaca os principais recursos ou problemas que ele resolve.
 -->
 ## Descrição
+Um projeto para me ajudar no meu desenvolvimento.
 
 <!--
 Status do Projeto (opcional)
@@ -26,6 +27,8 @@ Passos para instalar ou configurar o projeto localmente
 ## Instalação
 - git clone https://github.com/Luzivam34/DEV.git
 - cd seu-projeto
+- install requirements.txt
+
 
 <!--
 Como Usar
@@ -46,7 +49,8 @@ Pode incluir trechos de código ou capturas de tela.
 ### *Tecnologias*
 - [Python](https://www.python.org/)
     - [Flask](https://flask.palletsprojects.com/en/stable/)
-    - 
+- [HTML](https://www.w3schools.com/html/)
+    
 
 ---
 <!-- Contribuição
