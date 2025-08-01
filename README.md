@@ -44,7 +44,9 @@ Pode incluir trechos de código ou capturas de tela.
 
 
 ### *Tecnologias*
-- Markdown
+- [Python](https://www.python.org/)
+    - [Flask](https://flask.palletsprojects.com/en/stable/)
+    - 
 
 ---
 <!-- Contribuição
