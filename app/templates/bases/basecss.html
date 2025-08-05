@@ -5,18 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %} Home {% endblock %}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css')}}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style_css.css')}}">
 </head>
 <body>
     <header>
-        <h1>HTML</h1>
+        <h1>CSS</h1>
+        <h3>Estilo de Folha em Cascata</h3>
     </header>
     <br>
     <main>
         <div class="conteiner">
             <div class="menu">
                 <a href="/homepage">Home</a></br>
-                <a href="/tutorial_html">Tutorial HTML</a><br>
-                <a href="/introducao_html">Introdução ao HTML</a><br>
+                <a href="/tutorial_css">Tutorial CSS</a><br>
+                <a href="/introducao_css">Introdução ao CSS</a><br>
             </div>
             <div class="display">
                     {% block content %}

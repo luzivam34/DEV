@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %} Homepage {% endblock %}</title>
+    <title>{% block title %} Home {% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css')}}">
 </head>
 <body>
     <header>
@@ -14,6 +15,7 @@
         <div class="conteiner">
             <div class="menu">
                 <a href="/html">HTML</a></br>
+                <a href="/css">CSS</a></br>
             </div>
             <div class="display">
                     {% block content %}
